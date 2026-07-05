@@ -55,7 +55,7 @@ git clone https://github.com/Anurag-Rathod/Tic-Tac-Toe-Game.git
 
 ## 📸 Preview
 
-
+![Tic Tac Toe Preview](screenshot.png)
 
 ---
 
