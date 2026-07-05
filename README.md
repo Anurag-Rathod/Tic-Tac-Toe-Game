@@ -71,5 +71,3 @@ git clone https://github.com/Anurag-Rathod/Tic-Tac-Toe-Game.git
 - Live Demo: https://anurag-rathod.github.io/Tic-Tac-Toe-Game/
 
 ---
-
-⭐ If you found this project helpful, consider giving it a star!
